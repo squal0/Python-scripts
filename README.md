@@ -1,1 +1,3 @@
-# python-scripts
+# Python Scripts
+
+*Programming exercises in Python*
